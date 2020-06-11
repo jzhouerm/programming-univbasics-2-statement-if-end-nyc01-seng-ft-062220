@@ -7,6 +7,6 @@ else
   puts"Stay home and read Hegel."
 end
 
-this_year = 2019
+this_year = 2020
 puts "Hey, it's not 2019!" unless
 this_year == 2019
