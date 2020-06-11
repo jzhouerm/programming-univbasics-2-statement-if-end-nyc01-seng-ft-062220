@@ -6,7 +6,7 @@ current_time = current_time.to_i
  # puts "Odd!"
 #end 
 
-if current_time
+if current_time.even?
   puts "Even!"
 else
   puts "Odd!"
